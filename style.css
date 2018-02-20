@@ -1,0 +1,16 @@
+.ui.menu{
+  background-color: #fff;
+}
+
+.ui.bordered.dropdown.item{
+  border-width: 10px;
+  border-color: black;
+}
+.smaller{
+width: 150px;
+  height: 60px;
+}
+
+.text{
+  font-size: 15px;
+}
